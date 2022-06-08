@@ -20,7 +20,7 @@ Néanmoins
 
 :point_right: NOS RÉALISATIONS : 
 Dameiri -> Séries temporelles - Saisonnalité - autocorrélation - transformation de Fourier FFT
-JulienFX -> Calcul de l'indice de végétation - Partionnement des zones de végétation - classification des images 
+/ JulienFX -> Calcul de l'indice de végétation - Partionnement des zones de végétation - classification des images 
 
 :point_right: COMMENT UTILISER CE PROJET ? : 
 Télécharger python : https://www.python.org/downloads/
