@@ -1,28 +1,28 @@
 # ClassificationImage
 
-À PROPOS DU PROJET Tutoré - RÉDIGÉ PAR JulienFX
+À PROPOS DU PROJET Tutoré - RÉDIGÉ PAR JulienFX :exclamation:
 
-GROUPE : 
+:point_right: GROUPE : 
 Dameiri - JulienFX
 
-OBJECTIF DU PROJET :
+:point_right: OBJECTIF DU PROJET :
 Le but est de permettre de classifier des images satellitaires en fonction de leur composition.
 
-CONTEXTE : 
+:point_right: CONTEXTE : 
 Dans le cadre de nos études nous avons du réaliser un projet en binôme tout en suivant une conduite agile. Ce projet universitaire est un projet qui a été choisis librement par nos soins afin de renforcer notre projet de poursuite d'étude. 
 Dameiri s'occuper de l'analyse des données soit l'aspect Data Science.
 JulienFX s'occuper du traitement des données soit l'aspect Deep Learning.
 
 
-AVANCÉ DU PROJET : 
+:point_right: AVANCÉ DU PROJET : 
 Pour ma part (JulienFX) je ne suis actuellement pas en mesure de continuer ce projet à cause des capacités de mon ordinateur (Disque dur plein à craquer).
 Néanmoins 
 
-NOS RÉALISATIONS : 
+:point_right: NOS RÉALISATIONS : 
 Dameiri -> Séries temporelles - Saisonnalité - autocorrélation - transformation de Fourier FFT
 JulienFX -> Calcul de l'indice de végétation - Partionnement des zones de végétation - classification des images 
 
-COMMENT UTILISER CE PROJET ? : 
+:point_right: COMMENT UTILISER CE PROJET ? : 
 Télécharger python : https://www.python.org/downloads/
 Ensuite 2 possibilités ...
   CHOIX 1 
