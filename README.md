@@ -26,12 +26,12 @@ Télécharger python : https://www.python.org/downloads/
 Ensuite 2 possibilités ...
   CHOIX 1 
     télécharger Anaconda(https://anaconda.fr.softonic.com/) 
-    créer un environnement virtuel (plus simple) soit par interface visuelle soit avec la commande : Conda create __NomEnvironnementVirtuel__
-    switcher sur votre environnement virtuel : Conda activate __NomEnvironnementVirtuel__
-    installer les librairies nécessaires : Conda install __NomLibrairie__
+    créer un environnement virtuel (plus simple) soit par interface visuelle soit avec la commande : Conda create *NomEnvironnementVirtuel*
+    switcher sur votre environnement virtuel : Conda activate *NomEnvironnementVirtuel*
+    installer les librairies nécessaires : Conda install *NomLibrairie*
   
   CHOIX 2 
     Utiliser Google Collab
-    Installer toutes les librairies nécessaires au projet avec les possibles commandes : - pip install __NomLibrairie__ 
-                                                                                         - python -m pip install __NomLibrairie__
+    Installer toutes les librairies nécessaires au projet avec les possibles commandes : - pip install *NomLibrairie* 
+                                                                                         - python -m pip install *NomLibrairie*
 
