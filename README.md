@@ -1,4 +1,38 @@
 # ClassificationImage
-L'objectif de ce projet est de permettre à  classifier des images satellitaires et de reconnaître différents objets au sein d'une image. Pour plus d'informations, veuillez prendre connaissance du foichier informations
-Pour utiliser ndvi => il vous faut différentes bandes spectrales sous format .tiff / prenez la bande 3 et 4 remplacez dans le code et voyez le résultat
-Pour utiliser prediction => il vous faut un dossier ou vous aller mettre toutes les images que vous voulez entrainez en indiquant à la machine lesquels corresponde à quoi / Ensuite vous pouvez mettre dans un dossier les différentes images que vous voulez reconnaître sans rien spécifier à l'algo.
+
+À PROPOS DU PROJET Tutoré - RÉDIGÉ PAR JulienFX
+
+GROUPE : 
+Dameiri - JulienFX
+
+OBJECTIF DU PROJET :
+Le but est de permettre de classifier des images satellitaires en fonction de leur composition.
+
+CONTEXTE : 
+Dans le cadre de nos études nous avons du réaliser un projet en binôme tout en suivant une conduite agile. Ce projet universitaire est un projet qui a été choisis librement par nos soins afin de renforcer notre projet de poursuite d'étude. 
+Dameiri s'occuper de l'analyse des données soit l'aspect Data Science.
+JulienFX s'occuper du traitement des données soit l'aspect Deep Learning.
+
+
+AVANCÉ DU PROJET : 
+Pour ma part (JulienFX) je ne suis actuellement pas en mesure de continuer ce projet à cause des capacités de mon ordinateur (Disque dur plein à craquer).
+Néanmoins 
+
+NOS RÉALISATIONS : 
+Dameiri -> Séries temporelles - Saisonnalité - autocorrélation - transformation de Fourier FFT
+JulienFX -> Calcul de l'indice de végétation - Partionnement des zones de végétation - classification des images 
+
+COMMENT UTILISER CE PROJET ? : 
+Télécharger python : https://www.python.org/downloads/
+Ensuite 2 possibilités ...
+  CHOIX 1 
+    télécharger Anaconda(https://anaconda.fr.softonic.com/) 
+    créer un environnement virtuel (plus simple) soit par interface visuelle soit avec la commande : Conda create __NomEnvironnementVirtuel__
+    switcher sur votre environnement virtuel : Conda activate __NomEnvironnementVirtuel__
+    installer les librairies nécessaires : Conda install __NomLibrairie__
+  
+  CHOIX 2 
+    Utiliser Google Collab
+    Installer toutes les librairies nécessaires au projet avec les possibles commandes : - pip install __NomLibrairie__ 
+                                                                                         - python -m pip install __NomLibrairie__
+
