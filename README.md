@@ -16,7 +16,6 @@ JulienFX s'occuper du traitement des données soit l'aspect Deep Learning.
 
 :point_right: AVANCÉ DU PROJET : 
 Pour ma part (JulienFX) je ne suis actuellement pas en mesure de continuer ce projet à cause des capacités de mon ordinateur (Disque dur plein à craquer).
-Néanmoins 
 
 :point_right: NOS RÉALISATIONS : 
 Dameiri -> Séries temporelles - Saisonnalité - autocorrélation - transformation de Fourier FFT
